@@ -1,8 +1,6 @@
--------------------------------------
-|	   SATR Sub-Language :P		        |
-|    A VBScript Subsidiarity        |  
-|	       By: fhAifN				          |
--------------------------------------
+SATR Sub-Language :P
+A VBScript Subsidiarity
+By: fhAifN
 
 Custom Stuff:
 
